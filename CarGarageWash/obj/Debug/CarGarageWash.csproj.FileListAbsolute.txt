@@ -1,0 +1,8 @@
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\CarGarageWash\bin\Debug\CarGarageWash.exe.config
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\CarGarageWash\bin\Debug\CarGarageWash.exe
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\CarGarageWash\bin\Debug\CarGarageWash.pdb
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\CarGarageWash\obj\Debug\CarGarageWash.csproj.AssemblyReference.cache
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\CarGarageWash\obj\Debug\CarGarageWash.csproj.SuggestedBindingRedirects.cache
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\CarGarageWash\obj\Debug\CarGarageWash.csproj.CoreCompileInputs.cache
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\CarGarageWash\obj\Debug\CarGarageWash.exe
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\CarGarageWash\obj\Debug\CarGarageWash.pdb
