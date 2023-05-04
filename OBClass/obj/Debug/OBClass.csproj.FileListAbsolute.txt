@@ -1,0 +1,8 @@
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\OBClass\obj\Debug\OBClass.csproj.AssemblyReference.cache
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\OBClass\obj\Debug\OBClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\OBClass\obj\Debug\OBClass.csproj.CoreCompileInputs.cache
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\OBClass\bin\Debug\OBClass.exe.config
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\OBClass\bin\Debug\OBClass.exe
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\OBClass\bin\Debug\OBClass.pdb
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\OBClass\obj\Debug\OBClass.exe
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\OBClass\obj\Debug\OBClass.pdb
