@@ -114,8 +114,21 @@ namespace University
 
 Введите любой символ или оставьте строку пустой для выхода
 
-Ввод:");
-            string n1 = Console.ReadLine();
+Ввод:");    string n1 = Console.ReadLine();
+            while (n1=="2" && (students.Count() == 0 || teachers.Count()==0 || managers.Count()==0)) {
+                if (students.Count() == 0) {
+                    Console.WriteLine("В базе нет студентов");
+                }
+                if (teachers.Count() == 0)
+                {
+                    Console.WriteLine("В базе нет преподавателей");
+                }
+                if(managers.Count() == 0)
+                {
+                    Console.WriteLine("В базе нет управленцев");
+                }
+                n1 = Console.ReadLine();
+            }
             Console.Clear();
             string bt = "0";
             string kt = "0";
