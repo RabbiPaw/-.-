@@ -1,0 +1,8 @@
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\HtStackSet\bin\Debug\HtStackSet.exe.config
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\HtStackSet\bin\Debug\HtStackSet.exe
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\HtStackSet\bin\Debug\HtStackSet.pdb
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\HtStackSet\obj\Debug\HtStackSet.csproj.AssemblyReference.cache
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\HtStackSet\obj\Debug\HtStackSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\HtStackSet\obj\Debug\HtStackSet.csproj.CoreCompileInputs.cache
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\HtStackSet\obj\Debug\HtStackSet.exe
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\HtStackSet\obj\Debug\HtStackSet.pdb
