@@ -1,0 +1,8 @@
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\List\bin\Debug\List.exe.config
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\List\bin\Debug\List.exe
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\List\bin\Debug\List.pdb
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\List\obj\Debug\List.csproj.SuggestedBindingRedirects.cache
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\List\obj\Debug\List.exe
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\List\obj\Debug\List.pdb
